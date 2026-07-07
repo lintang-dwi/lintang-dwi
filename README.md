@@ -2,7 +2,6 @@
 
 # ✋ LINTANG DWI
 
-### `WEB DEVELOPER // INDONESIA`
 
 ![Static Badge](https://img.shields.io/badge/STATUS-LEARNING%20LARAVEL%20%26%20JAVASCRIPT-FFDE59?style=for-the-badge&labelColor=000000&color=FFDE59)
 ![Static Badge](https://img.shields.io/badge/MODE-ALWAYS%20SHIPPING-000000?style=for-the-badge&labelColor=FFDE59&color=000000)
