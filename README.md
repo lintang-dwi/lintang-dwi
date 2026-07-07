@@ -46,6 +46,13 @@ Double-entry bookkeeping platform for Indonesian village-owned enterprises, incl
 
 ---
 
+## Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## Contact
 
 **GitHub:** [github.com/lintang-dwi](https://github.com/lintang-dwi)
