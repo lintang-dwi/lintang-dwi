@@ -49,7 +49,7 @@ Double-entry bookkeeping platform for Indonesian village-owned enterprises, incl
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -78,13 +78,17 @@ Sunday                   72 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 12 mins             ██████████████░░░░░░░░░░░   57.47 % 
+TypeScript               6 mins              ███████░░░░░░░░░░░░░░░░░░   28.01 % 
+Svelte                   2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Go                       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Kasir Apotek             21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,7 +104,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026 18:16:22 UTC
+ Last Updated on 09/07/2026 18:48:40 UTC
 <!--END_SECTION:waka-->
 
 ---
