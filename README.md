@@ -49,58 +49,20 @@ Double-entry bookkeeping platform for Indonesian village-owned enterprises, incl
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2053%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-🌆 Daytime                174 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-🌃 Evening                257 commits         █████████░░░░░░░░░░░░░░░░   35.64 % 
-🌙 Night                  166 commits         ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   171 commits         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-Tuesday                  131 commits         █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
-Wednesday                72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Thursday                 136 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Friday                   71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-Saturday                 68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Sunday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Go                       10 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Antigravity IDE          10 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-frontend                 17 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Blade                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Blade                    3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+PHP                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Svelte                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 23/07/2026 18:11:16 UTC
+ Last Updated on 24/07/2026 18:16:25 UTC
 <!--END_SECTION:waka-->
 
 ---
