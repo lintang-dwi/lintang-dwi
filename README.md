@@ -49,6 +49,44 @@ Double-entry bookkeeping platform for Indonesian village-owned enterprises, incl
 ## Coding Activity
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2053%20mins-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌆 Daytime                188 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+🌃 Evening                269 commits         █████████░░░░░░░░░░░░░░░░   34.62 % 
+🌙 Night                  196 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   171 commits         ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
+Tuesday                  131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Wednesday                72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Thursday                 148 commits         █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Friday                   115 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Saturday                 68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Sunday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -62,7 +100,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 18:16:25 UTC
+ Last Updated on 25/07/2026 17:56:20 UTC
 <!--END_SECTION:waka-->
 
 ---
